@@ -1,2 +1,2 @@
 # WebscrappingAAMex
-Web Scrapping of the AA Groups in Mexico
+Proyecto para realizar Web Scrapping en la página web de AA México.
